@@ -1,5 +1,7 @@
 # VContainer
 
+Its a fork of jp.hadashikick.vcontainer: https://github.com/ZemMezzer/VContainer
+
 ![](https://github.com/hadashiA/VContainer/workflows/Test/badge.svg)
 ![](https://img.shields.io/badge/unity-2018.4+-000.svg)
 [![Releases](https://img.shields.io/github/release/hadashiA/VContainer.svg)](https://github.com/hadashiA/VContainer/releases)
@@ -52,7 +54,7 @@ Visit [vcontainer.hadashikick.jp](https://vcontainer.hadashikick.jp) to view the
 1. Navigate to your project's Packages folder and open the manifest.json file.
 2. Add this line below the "dependencies": { line
     - ```json title="Packages/manifest.json"
-      "jp.hadashikick.vcontainer": "https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer#1.17.0",
+      "com.tiredsiren.vcontainer": "https://github.com/ZemMezzer/VContainer.git?path=VContainer/Assets/VContainer#1.17.0",
       ```
 3. UPM should now install the package.
 
@@ -62,12 +64,12 @@ Visit [vcontainer.hadashikick.jp](https://vcontainer.hadashikick.jp) to view the
 1. The package is available on the [openupm registry](https://openupm.com). It's recommended to install it via [openupm-cli](https://github.com/openupm/openupm-cli).
 2. Execute the openum command.
     - ```
-      openupm add jp.hadashikick.vcontainer
+      openupm add com.tiredsiren.vcontainer
       ```
 
 ### Install manually (using .unitypackage)
 
-1. Download the .unitypackage from [releases](https://github.com/hadashiA/VContainer/releases) page.
+1. Download the .unitypackage from [releases](https://github.com/ZemMezzer/VContainer/releases) page.
 2. Open VContainer.x.x.x.unitypackage
 
 ## Basic Usage
