@@ -1,6 +1,6 @@
 # VContainer
 
-Its a fork of jp.hadashikick.vcontainer: https://github.com/ZemMezzer/VContainer
+Its a fork of jp.hadashikick.vcontainer: https://github.com/hadashiA/VContainer
 
 ![](https://github.com/hadashiA/VContainer/workflows/Test/badge.svg)
 ![](https://img.shields.io/badge/unity-2018.4+-000.svg)
